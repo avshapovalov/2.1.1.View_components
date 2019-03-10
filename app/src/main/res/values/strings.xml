@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Взаимоисключающие CheckBox</string>
+    <string name="entermoney">Ввод денег</string>
+    <string name="informationAboutPaymentHint">Информация об оплате</string>
+    <string name="bankCardCheckBoxHint">С банковской карты</string>
+    <string name="movilePhoneCheckBoxHint">С мобильного телефона</string>
+    <string name="cashAddressHint">Наличными по адресу</string>
+</resources>
